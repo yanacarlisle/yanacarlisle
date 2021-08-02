@@ -1,7 +1,7 @@
 # Bem vindo ao meu GitHub!
 Meu nome é **Yana** e sou estudante de Informática para a Internet no Instituto Federal do Rio Grande do Norte.👩‍🎓
 
-Estudo sobre várias tecnologias e linguagens que adentram no ramo da informática, além disso sou intusiasta do design. 💻
+Estudo sobre várias tecnologias e linguagens que adentram no ramo da informática, além disso sou entusiasta do design. 💻
 
 
 # Tecnologias
