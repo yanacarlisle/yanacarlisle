@@ -18,4 +18,3 @@ Estudo sobre várias tecnologias e linguagens que adentram no ramo da informáti
 
 ## GitHub Status
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yanacarlisle&theme=blue-green)
-```
